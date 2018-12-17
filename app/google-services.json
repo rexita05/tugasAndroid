@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967101547871",
+    "firebase_url": "https://tubes-1d92c.firebaseio.com",
+    "project_id": "tubes-1d92c",
+    "storage_bucket": "tubes-1d92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967101547871:android:a11f7ee76ed8b555",
+        "android_client_info": {
+          "package_name": "com.nyoba.app.nyoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967101547871-b5qknn5i89agr1lgg4ks9sitcqlu3u3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nyoba.app.nyoba",
+            "certificate_hash": "9911658f2b831168d4713b070e795478e3864f76"
+          }
+        },
+        {
+          "client_id": "967101547871-u9oolbeqjan7eb7ef6sng6qv93d9fpt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0KV0TUMlTPMnkDE221konHCsKnv_rXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967101547871-u9oolbeqjan7eb7ef6sng6qv93d9fpt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
